@@ -1,0 +1,17 @@
+form{
+	text-align: center;
+	background-color: white;
+	margin-top: 50px;
+	padding: 50px;
+}
+body{
+	background: url(../img/autoecole.jpg);
+	background-size: cover;
+
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #428bca;
+}
